@@ -1,4 +1,4 @@
-# CMU-CS-11-737-Multilingual-NLP
+# CMU-CS11-737-MultilingualNLP
 
 Thank you to Carnegie Mellon University, Graham Neubig, Alan Black and Shinji Watanabe for making this course material and their knowledge accessible to everyone.
 
