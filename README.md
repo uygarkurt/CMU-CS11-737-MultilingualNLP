@@ -6,4 +6,6 @@ Thank you to Carnegie Mellon University, Graham Neubig, Alan Black and Shinji Wa
 
 2 - Sequence Labeling (1/20/2022) || http://phontron.com/class/multiling2022/schedule/sequencelabeling.html || https://www.youtube.com/watch?v=5CXv0KakpYo&list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7&index=20
 
+3 - Typology: The Space of Languages (1/25/2022) || http://phontron.com/class/multiling2022/schedule/typology.html || https://www.youtube.com/watch?v=iYmE6UCiOSQ&list=PL8PYTP1V4I8BhCpzfdKKdd1OnTfLcyZr7&index=19
+
 Assignment 1 || http://phontron.com/class/multiling2022/assignment1.html
